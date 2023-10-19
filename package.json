@@ -1,0 +1,16 @@
+{
+  "name": "zipcode-microservice",
+  "version": "1.0.0",
+  "description": "Microservice for calculating distance between 2 given zipcodes using a third party api call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kitret",
+  "repository": "https://github.com/Kitret/distanceCalculator.git",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
